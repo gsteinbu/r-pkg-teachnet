@@ -29,6 +29,3 @@ Georg Steinbuss
 \seealso{
 \link{crossEntropy}
 }
-
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

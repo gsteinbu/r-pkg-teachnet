@@ -31,6 +31,3 @@ Georg Steinbuss
 \seealso{
 \link{Weights2-class}
 }
-
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

@@ -1,7 +1,7 @@
 ## Test environments
-* local Manjaro Linux install, R 3.1.2
-* R-hub
-* win-builder
+* local elementary OS 6.1 Jólnir, R 3.6.3
+* TODO local Manjaro
+* TODO win-builder
 
 ## R CMD check results
 There were no ERRORs or WARNINGs. 

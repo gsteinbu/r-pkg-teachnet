@@ -30,5 +30,3 @@ Georg Steinbuss
 \seealso{
 \link{confusion}
 }
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
